@@ -1,4 +1,4 @@
-- 👋 Hey, I’m @akkiokun and i'm interested in learning to return the learned back.
+- 👋 Hey, I’m @akkiokun and i'm interested in learning in order to return the learned back.
 
 <!---
 akkiokun/akkiokun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
